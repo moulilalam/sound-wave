@@ -6,13 +6,15 @@
 .container{
    
     /* height: 300px; */
-    /* background-color: black; */
+    background-color: black;
     display: flex;
     flex-wrap: wrap;
     gap: 10px;
     justify-content: center;
     align-items: center;
-    border-radius: 30px;
+  
+     height: 100vh;
+    width: 100vw;
 
 }
 body{
@@ -20,8 +22,7 @@ body{
     /* background-color: lightcoral; */
     display: flex;
 
-    height: 100vh;
-    width:100vw;
+   
     justify-content: center;
     align-items: center;
 
@@ -137,7 +138,6 @@ body{
    }
 
 }
-
 
 
 
