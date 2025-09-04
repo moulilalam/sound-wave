@@ -8,7 +8,7 @@
     /* height: 300px; */
     background-color: black;
     display: flex;
-    flex-wrap: wrap;
+/*     flex-wrap: wrap; */
     gap: 10px;
     justify-content: center;
     align-items: center;
@@ -138,6 +138,7 @@ body{
    }
 
 }
+
 
 
 
